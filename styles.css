@@ -1,0 +1,27 @@
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 8px;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 500px;
+    height: 600px;
+}
+
+.table-user {
+    background-color: lightcyan;
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 500px;
+    
+}
+
+.table-user td, .table-user th  {  
+    border: 1px solid salmon;
+    padding: 8px;
+    text-align: center;
+} /* refer "td" from html
